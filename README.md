@@ -1,6 +1,5 @@
 ### Demo-YH 🦜
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demo-YH&theme=tokyonight)
-![](http://github-readme-stats.vercel.app/api/top-langs/?username=Demo-YH&layout=compact&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demo-YH&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demo-YH&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app.com/?user=Demo-YH&theme=tokyonight")  
