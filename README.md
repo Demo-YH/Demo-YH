@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Demo-YH&layout=compact&theme=tokyonight)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demo-YH&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demo-YH&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username==Demo-YH&show_icons=true&locale=en&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demo-YH&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demo-YH&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Demo-YH&theme=tokyonight&utcOffset=8)
